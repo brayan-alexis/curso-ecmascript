@@ -1,0 +1,15 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "This is a project of the ECMAScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Brayan Fajardo <brayan.alx.fajardo@gmail.com>",
+  "license": "MIT"
+}
