@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Brayan Fajardo <brayan.alx.fajardo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
